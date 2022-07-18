@@ -1,1 +1,3 @@
-# Store-order-management-system
+Contribution information
+https://github.com/Kisari/Store-order-management-system
+Video presentation
